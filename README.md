@@ -35,7 +35,7 @@ BLADE employs a three-step process:
 ### Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/your-repo/blade.git
+git clone https://github.com/CSHaitao/BLADE
 cd blade
 pip install -r requirements.txt
 ```
